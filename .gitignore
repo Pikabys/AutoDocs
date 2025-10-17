@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 /Projects/*
+!/Projects/.gitkeep
 /report_file/*
+!/report_file/.gitkeep
